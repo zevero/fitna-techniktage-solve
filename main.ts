@@ -1,4 +1,8 @@
-let mySprite = sprites.create(img`
+let mySprite: Sprite = null
+info.changeScoreBy(1)
+game.onUpdate(function () {
+    info.changeScoreBy(1)
+    mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -16,4 +20,4 @@ let mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
-info.changeScoreBy(1)
+})
