@@ -16,3 +16,4 @@ let mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
+info.changeScoreBy(1)

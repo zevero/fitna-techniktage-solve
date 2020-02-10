@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="RAsyhgR73+Smg5#w~j|."><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="RAsyhgR73+Smg5#w~j|."><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="hudChangeScoreBy" id=";@-T*v2uHkj;i0ZB;}oj"><value name="value"><shadow type="math_number" id="-wI1-07}eHG2#=26hAFg"><field name="NUM">1</field></shadow></value></block></next></block></statement></block></xml>
